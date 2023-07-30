@@ -169,6 +169,15 @@ p {
     transform: rotate(0);
     text-align: center;
     width: 100%;
+    padding-top: 10%;
+  }
+
+  .pricing-heading {
+    font-size: 3rem;
+  }
+  
+  .download-button {
+    margin: 5% 3% 4% 0%;
   }
 }
 
